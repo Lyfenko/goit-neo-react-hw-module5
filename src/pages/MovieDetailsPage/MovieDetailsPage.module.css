@@ -1,0 +1,52 @@
+.container {
+  padding: 16px;
+}
+
+.backLink {
+  display: inline-block;
+  margin-bottom: 16px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.backLink:hover {
+  text-decoration: underline;
+}
+
+.additionalInfo {
+  margin-top: 16px;
+}
+
+.additionalInfo ul {
+  list-style: none;
+  padding: 0;
+}
+
+.additionalInfo li {
+  margin-bottom: 8px;
+}
+
+.additionalInfo a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.additionalInfo a:hover {
+  text-decoration: underline;
+}
+
+.backButton {
+  display: inline-block;
+  margin-bottom: 16px;
+  padding: 8px 16px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.backButton:hover {
+  background-color: #0056b3;
+}
+

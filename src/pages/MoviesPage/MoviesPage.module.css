@@ -1,0 +1,29 @@
+.container {
+  padding: 16px;
+}
+
+.searchForm {
+  margin-bottom: 16px;
+  display: flex;
+  gap: 8px;
+}
+
+.searchForm input {
+  flex-grow: 1;
+  padding: 8px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
+
+.searchForm button {
+  padding: 8px 16px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.searchForm button:hover {
+  background-color: #0056b3;
+}

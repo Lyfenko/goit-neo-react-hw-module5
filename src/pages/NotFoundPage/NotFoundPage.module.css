@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  padding: 32px;
+}
+
+.homeLink {
+  display: inline-block;
+  margin-top: 16px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.homeLink:hover {
+  text-decoration: underline;
+}
